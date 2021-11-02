@@ -82,7 +82,7 @@ ApplicationWindow {
                                         id: wrapper
                                         width: 200
                                         height: contactInfo.height
-                                        radius: 10
+                                        radius: 30
 
 
                                         color:"lightseagreen"
@@ -119,7 +119,7 @@ ApplicationWindow {
 //                                width: parent.width
 //                                height: 250
 //                                color:"skyblue"
-//                                radius: 10
+//                                radius: 30
 //                                Text{
 //                                    id:textId
 //                                    anchors.centerIn: parent
